@@ -1,4 +1,4 @@
-    var empty = require('./empty');
+    var empty = require('../../../empty');
 	var assert = require('assert');
 
 
